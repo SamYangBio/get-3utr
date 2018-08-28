@@ -7,6 +7,8 @@ perl get_bed.pl <gff> <outbed>
 step2:
 bedtools getfasta  -fi chicken.fa -bed 3utr.bed -fo 3utr.fa -name
 
+
+
 SamYangBio (yangzhengxia2014@163.com)
 
 Aug. 28, 2018
